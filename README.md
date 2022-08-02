@@ -1,2 +1,2 @@
 # Web-projects
-A repository for my web projects.
+A simple website used to implement the basic features of HTML 5.
